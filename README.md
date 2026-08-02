@@ -56,10 +56,8 @@ A aplicação abrirá em `http://localhost:8501`
 A aplicação está disponível em: [EyeConnect SUS](https://eyeconnectsus.streamlit.app)
 
 ## 👥 Autores
-
-- **Núcleo de Saúde Digital (NSD)** - UNIFESP
 - **PET-Saúde** - Projeto de Extensão
 
 ## 📄 Licença
 
-Todos os direitos reservados © 2024 UNIFESP
+Todos os direitos reservados © 2026 GAT9
